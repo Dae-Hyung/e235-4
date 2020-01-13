@@ -5,7 +5,7 @@
 ### Step 1: Create the Foundation
 ##### Materials needed: 2x4 Lego Pieces x 5 (blue, white x 3, orange)
 - From left to right, on a level surface, lay down 5 Lego pieces so that the long sides are touching one another.
- - From left to right, color coded as follows: blue, white x 3, orange.
+  - From left to right, color coded as follows: blue, white x 3, orange.
 - Ensure that the front and rear edges are flush with one another. 
 
 
@@ -15,7 +15,7 @@
 ##### Materials needed: 2x4 Lego Pieces x 4 (light purple, brown, pink, purple)
 - From left to right, place the first Lego (purple) halfway on the orange and white Lego pieces beneath it.
 - From left to right, place the remaining Legos so that the long sides are touching one another.
- - From left to right, color coded as follows: brown, pink, light purple
+  - From left to right, color coded as follows: brown, pink, light purple
 - Ensure that the front and rear edges are flush with one another
 - Ensure that the orange and blue Lego pieces on the first level have one row exposed.
 
