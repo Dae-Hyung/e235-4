@@ -21,7 +21,7 @@ d.	Ensure that the orange and blue Lego pieces on the first level have one row e
 
 
 
-### Step 3: Create Third Level###
+### Step 3: Create Third Level
 ##### Materials needed: 2x4 Lego Pieces x 3 (red)
 a.	From left to right, place the first Lego halfway on the light purple and brown Lego pieces beneath it.
 b.	From left to right, place the remaining Legos so that the long sides are touching one another.
